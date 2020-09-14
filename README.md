@@ -1,3 +1,3 @@
 # acuion-configs
 </br>
-configs for acuion
+Configs Designed for https://github.com/DrunkenBlyatHvH/AcuionHvH
