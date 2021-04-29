@@ -1,3 +1,3 @@
 # acuion-configs
 </br>
-Configs Designed for https://github.com/DrunkenBlyatHvH/AcuionHvH
+Configs Designed for https://github.com/Cheat-Collective/acuion
